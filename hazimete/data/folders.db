@@ -1,0 +1,57 @@
+{"_id":"168uCmY0BOyPf1iu","name":"DAE SRD Feats","type":"Item","sort":900000,"flags":{},"parent":null,"sorting":"a"}
+{"_id":"2PSfHPXWgZRcQBwU","name":"DAE SRD Midi-collection","type":"Item","sort":1000000,"flags":{},"parent":null,"sorting":"a"}
+{"name":"ドラゴンボーン","type":"Item","sort":1400000,"flags":{},"parent":"PnC09kd7u5HMPbej","sorting":"a","color":"#9d987b","_id":"3lMqj1Kb9LamexjL"}
+{"_id":"55rC2W09hwZfhXCK","name":"クラス特徴（DAE）","type":"Item","sort":300000,"flags":{},"parent":null,"sorting":"a","color":"#35a00e"}
+{"_id":"5uFaSufjtZhETiNC","name":"DAE SRD Spells","type":"Item","sort":1100000,"flags":{},"parent":null,"sorting":"a"}
+{"_id":"6KdHnjaY3KNfnn77","name":"トラップ","type":"Item","sort":1300000,"flags":{},"parent":null,"sorting":"a","color":"#ff0000"}
+{"name":"Adv","type":"Scene","sort":100000,"flags":{},"parent":null,"sorting":"a","color":"","_id":"7EE7yjxpDbF2mTuz"}
+{"_id":"9F1fNcKqbsiy7WmQ","name":"マニュアル(簡易版)","type":"JournalEntry","sort":700000,"flags":{},"parent":null,"sorting":"a","color":"#c5302c"}
+{"_id":"9jMeO6zg50WI2tJN","name":"敵","type":"Actor","sort":100000,"flags":{},"parent":"ukxHI7vgLia6ctT6","sorting":"a","color":"#e3596a"}
+{"_id":"9rtqkmYSKizTJ1rc","name":"特技（DAE）","type":"Item","sort":500000,"flags":{},"parent":null,"sorting":"a","color":"#da0b0b"}
+{"name":"占術系統","type":"Item","sort":2400000,"flags":{},"parent":"drMLwKVMmop2QVAN","sorting":"a","color":"","_id":"BLCmuoBjxTULfbpo"}
+{"_id":"Bwd4TJJqUFomzBuS","name":"レンジャーの特徴","type":"Item","sort":1100000,"flags":{},"parent":"55rC2W09hwZfhXCK","sorting":"a","color":"#28673b"}
+{"_id":"DH9dIzfjvSIeZQnF","name":"ティーフリング","type":"Item","sort":1300000,"flags":{},"parent":"PnC09kd7u5HMPbej","sorting":"a","color":"#a50d0d"}
+{"_id":"DZCh9kiTIiyLhB3E","name":"ファイターの特徴","type":"Item","sort":900000,"flags":{},"parent":"55rC2W09hwZfhXCK","sorting":"a","color":"#102142"}
+{"_id":"F7J6Vy68nacGjSAD","name":"バードの特徴","type":"Item","sort":600000,"flags":{},"parent":"55rC2W09hwZfhXCK","sorting":"a","color":"#147141"}
+{"_id":"FGK3ZiyHTP3xNDJ6","name":"ウォーロックの特徴","type":"Item","sort":300000,"flags":{},"parent":"55rC2W09hwZfhXCK","sorting":"a","color":"#7c0404"}
+{"name":"セッションで出たモノ","type":"Item","sort":4000000,"flags":{},"parent":null,"sorting":"a","color":"#1f83e0","_id":"FU3gds2B8SJznj57"}
+{"_id":"FYDRmxpM6qoypEcW","name":"クレリックの特徴","type":"Item","sort":1200000,"flags":{},"parent":"55rC2W09hwZfhXCK","sorting":"a","color":"#72663c"}
+{"name":"ノーム","type":"Item","sort":1500000,"flags":{},"parent":"PnC09kd7u5HMPbej","sorting":"a","color":"#91420d","_id":"IEKWpjjCcwfbCjgk"}
+{"name":"旧作","type":"Scene","sort":null,"flags":{},"parent":null,"sorting":"a","color":"#ff0000","_id":"IFCXQJyk12AtTi2L"}
+{"_id":"KZl1CCuaremkXtxv","name":"個性と背景（DAE）","type":"Item","sort":400000,"flags":{},"parent":null,"sorting":"a","color":"#69700a"}
+{"name":"戦の領域","type":"Item","sort":3800000,"flags":{},"parent":"FYDRmxpM6qoypEcW","sorting":"a","color":"","_id":"LGXVQLROMWpDCgTX"}
+{"_id":"Mcg7J85lBbqBOsxX","name":"ソーサラーの特徴","type":"Item","sort":400000,"flags":{},"parent":"55rC2W09hwZfhXCK","sorting":"a","color":"#484404"}
+{"_id":"MkldKR24rImPGwa6","name":"呪文辞典SRD【日本語】","type":"Item","sort":700000,"flags":{},"parent":null,"sorting":"a","color":"#3e0a0a"}
+{"name":"神技","type":"Item","sort":4100000,"flags":{},"parent":null,"sorting":"a","color":"","_id":"MlAxgew77a54OTOI"}
+{"_id":"OrB8mgotj2JgvywW","name":"Temporary Combatants","type":"Actor","sort":500000,"flags":{},"parent":null,"sorting":"a"}
+{"name":"召喚術系統","type":"Item","sort":2200000,"flags":{},"parent":"drMLwKVMmop2QVAN","sorting":"a","color":"","_id":"Pb5jMm4MVe2AYqac"}
+{"_id":"Pgcthj5OTMJdEbNd","name":"トラップ","type":"Actor","sort":300000,"flags":{},"parent":null,"sorting":"a","color":"#f50000"}
+{"_id":"PnC09kd7u5HMPbej","name":"種族","type":"Item","sort":200000,"flags":{},"parent":null,"sorting":"a","color":"#4d22c3"}
+{"_id":"QhXZwxkXywBY89DI","name":"DAE SRD  Items","type":"Item","sort":800000,"flags":{},"parent":null,"sorting":"a","color":"#000000"}
+{"name":"ヒューマン","type":"Item","sort":1200000,"flags":{},"parent":"PnC09kd7u5HMPbej","sorting":"a","color":"","_id":"SgqKAbAAyOrul39a"}
+{"name":"ハーフオーク","type":"Item","sort":1700000,"flags":{},"parent":"PnC09kd7u5HMPbej","sorting":"a","color":"#592222","_id":"XKyZEvEEO5ScUxhp"}
+{"_id":"XaRm6w4NpMlfCwa8","name":"クラス（DAE）","type":"Item","sort":100000,"flags":{},"parent":null,"sorting":"a","color":""}
+{"_id":"YaDIpHTwGAccdC1h","name":"ドルイドの特徴","type":"Item","sort":500000,"flags":{},"parent":"55rC2W09hwZfhXCK","sorting":"a","color":"#10a22d"}
+{"_id":"YziLhewvLJlb3OgZ","name":"NPC","type":"Actor","sort":600000,"flags":{},"parent":null,"sorting":"a","color":"#2fb675"}
+{"name":"ハーフエルフ","type":"Item","sort":1600000,"flags":{},"parent":"PnC09kd7u5HMPbej","sorting":"a","color":"#114974","_id":"coqHdmQnQHBcUB9j"}
+{"name":"心術系統","type":"Item","sort":2300000,"flags":{},"parent":"drMLwKVMmop2QVAN","sorting":"a","color":"","_id":"cpSu9ZXWVyMS0OiC"}
+{"name":"防御術系統","type":"Item","sort":2600000,"flags":{},"parent":"drMLwKVMmop2QVAN","sorting":"a","color":"","_id":"cxm3rMRoa8QalW1t"}
+{"_id":"d2FEDWZTaPVpEB5F","name":"モンスター辞典SRD【英語】","type":"Actor","sort":700000,"flags":{},"parent":null,"sorting":"a"}
+{"name":"ドワーフ","type":"Item","sort":1000000,"flags":{},"parent":"PnC09kd7u5HMPbej","sorting":"a","color":"#3e3704","_id":"dE97YBoh5RwhRk66"}
+{"_id":"doCNkero298I8KQM","name":"共通の能力","type":"Item","sort":200000,"flags":{},"parent":"55rC2W09hwZfhXCK","sorting":"a","color":""}
+{"_id":"drMLwKVMmop2QVAN","name":"ウィザードの特徴","type":"Item","sort":100000,"flags":{},"parent":"55rC2W09hwZfhXCK","sorting":"a","color":"#053199"}
+{"_id":"ergHAOaS3fv0p9Po","name":"ローグの特徴","type":"Item","sort":1300000,"flags":{},"parent":"55rC2W09hwZfhXCK","sorting":"a","color":""}
+{"_id":"eteccNt0XpswYXdM","name":"アイテム辞典SRD【日本語】","type":"Item","sort":600000,"flags":{},"parent":null,"sorting":"a","color":"#071c5a"}
+{"name":"力術系統","type":"Item","sort":2700000,"flags":{},"parent":"drMLwKVMmop2QVAN","sorting":"a","color":"","_id":"hZgMZB6DCKhfmEhU"}
+{"name":"幻術系統","type":"Item","sort":2100000,"flags":{},"parent":"drMLwKVMmop2QVAN","sorting":"a","color":"","_id":"iGXhD4B9DcHpVKuq"}
+{"_id":"jXDPTmMDm3txUDY0","name":"プレロールド","type":"Actor","sort":400000,"flags":{},"parent":null,"sorting":"a","color":""}
+{"_id":"pAlcTlnoNXrlQZdq","name":"エルフ","type":"Item","sort":900000,"flags":{},"parent":"PnC09kd7u5HMPbej","sorting":"a","color":"#064d84"}
+{"_id":"pmtzc64vSGqOhsJo","name":"特殊枠","type":"Item","sort":1200000,"flags":{},"parent":null,"sorting":"a","color":"#3c4e3c"}
+{"_id":"qgopithdrrIAzIuy","name":"プレイヤーキャラ","type":"Actor","sort":100000,"flags":{},"parent":null,"sorting":"a","color":""}
+{"name":"編成術系統","type":"Item","sort":2500000,"flags":{},"parent":"drMLwKVMmop2QVAN","sorting":"a","color":"","_id":"r1WsQDJ02oSafiBi"}
+{"_id":"uE2SdsvU4fmrJ8rl","name":"バーバリアンの特徴","type":"Item","sort":700000,"flags":{},"parent":"55rC2W09hwZfhXCK","sorting":"a","color":"#d10a0a"}
+{"_id":"uj6GALTOUtOSABpy","name":"モンクの特徴","type":"Item","sort":1000000,"flags":{},"parent":"55rC2W09hwZfhXCK","sorting":"a","color":"#3d0868"}
+{"_id":"ukxHI7vgLia6ctT6","name":"敵（１）","type":"Actor","sort":800000,"flags":{},"parent":null,"sorting":"a","color":"#d12e2e"}
+{"_id":"vKhWXESitq673QRt","name":"パラディンの特徴","type":"Item","sort":800000,"flags":{},"parent":"55rC2W09hwZfhXCK","sorting":"a","color":"#a09c9c"}
+{"name":"モンスター枠","type":"Item","sort":3900000,"flags":{},"parent":null,"sorting":"a","color":"","_id":"xY33mYcSBPWElNwl"}
+{"name":"ハーフリング","type":"Item","sort":1100000,"flags":{},"parent":"PnC09kd7u5HMPbej","sorting":"a","color":"#059931","_id":"yzfDyBmHvvsXhb0K"}

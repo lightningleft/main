@@ -1,0 +1,20 @@
+{
+  "name": "meredius",
+  "title": "Adventure of Meredius",
+  "description": "",
+  "authors": [],
+  "flags": {},
+  "version": "1.0.0",
+  "scripts": [],
+  "esmodules": [],
+  "styles": [],
+  "languages": [],
+  "packs": [],
+  "system": "dnd5e",
+  "dependencies": [],
+  "socket": false,
+  "protected": false,
+  "coreVersion": "0.8.6",
+  "resetKeys": false,
+  "safeMode": false
+}

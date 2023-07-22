@@ -1,0 +1,104 @@
+{
+  "name": "hazimete",
+  "title": "tastets",
+  "description": "",
+  "version": "1.0.0",
+  "minimumCoreVersion": "0.0.0",
+  "compatibleCoreVersion": "1.0.0",
+  "scripts": [],
+  "esmodules": [],
+  "styles": [],
+  "packs": [
+    {
+      "label": "クラス（自作）",
+      "entity": "Item",
+      "name": "",
+      "path": "packs/.db",
+      "system": "dnd5e",
+      "package": "world",
+      "absPath": "/forge-vtt/data/Data/worlds/hazimete/packs/.db"
+    },
+    {
+      "label": "テストプレイLV1",
+      "entity": "Actor",
+      "name": "lv1",
+      "path": "packs/lv1.db",
+      "system": "dnd5e",
+      "package": "world",
+      "absPath": "/forge-vtt/data/Data/worlds/hazimete/packs/lv1.db"
+    },
+    {
+      "label": "種族DAE（自作）",
+      "entity": "Item",
+      "name": "dae",
+      "path": "packs/dae.db",
+      "system": "dnd5e",
+      "package": "world",
+      "absPath": "/forge-vtt/data/Data/worlds/hazimete/packs/dae.db"
+    },
+    {
+      "label": "Feats（自作）",
+      "entity": "Item",
+      "name": "feats",
+      "path": "packs/feats.db",
+      "system": "dnd5e",
+      "package": "world",
+      "absPath": "/forge-vtt/data/Data/worlds/hazimete/packs/feats.db"
+    },
+    {
+      "label": "ClassFeats(DAE)",
+      "entity": "Item",
+      "name": "classfeatsdae",
+      "path": "packs/classfeatsdae.db",
+      "system": "dnd5e",
+      "package": "world",
+      "absPath": "/forge-vtt/data/Data/worlds/hazimete/packs/classfeatsdae.db"
+    },
+    {
+      "label": "Scene01",
+      "entity": "Scene",
+      "name": "scene01",
+      "path": "packs/scene01.db",
+      "system": "dnd5e",
+      "package": "world",
+      "absPath": "/forge-vtt/data/Data/worlds/hazimete/packs/scene01.db"
+    },
+    {
+      "label": "PlayerLV3",
+      "entity": "Actor",
+      "name": "playerlv3",
+      "path": "packs/playerlv3.db",
+      "system": "dnd5e",
+      "package": "world",
+      "absPath": "/forge-vtt/data/Data/worlds/hazimete/packs/playerlv3.db"
+    },
+    {
+      "label": "Items",
+      "entity": "Item",
+      "name": "items",
+      "path": "packs/items.db",
+      "system": "dnd5e",
+      "package": "world",
+      "absPath": "/forge-vtt/data/Data/worlds/hazimete/packs/items.db"
+    }
+  ],
+  "languages": [],
+  "authors": [],
+  "keywords": [],
+  "socket": false,
+  "url": "https://github.com/Sa10yama/hazimetesima",
+  "manifest": "https://raw.githubusercontent.com/Sa10yama/hazimetesima/main/world.json",
+  "download": "https://github.com/Sa10yama/hazimetesima/archive/main.zip",
+  "license": "",
+  "readme": "",
+  "bugs": "",
+  "changelog": "",
+  "background": "",
+  "system": "dnd5e",
+  "coreVersion": "0.8.1",
+  "systemVersion": "1.2.4",
+  "nextSession": "1970-01-01T00:00:00.000Z",
+  "availability": 1,
+  "unavailable": false,
+  "id": "hazimete"
+}
